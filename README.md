@@ -1,8 +1,8 @@
-# Transaction Data MapReduce with PySpark
+# Transaction Data MapReduce with Python's PySpark API
 
 ## Description
 
-This repository contains a PySpark script designed to perform MapReduce operations on a dataset of transactions. The script reads data from a CSV file, categorizes transactions, performs a count on each category, and then outputs the result.
+This repository contains a Python script designed to perform MapReduce operations on a dataset of transactions. The script reads data from a CSV file, categorizes transactions, performs a count on each category, and then outputs the result.
 
 ## Prerequisites
 
